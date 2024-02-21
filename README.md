@@ -4,7 +4,7 @@ Visualization of global/permafrost soil carbon stocks
 Create a figure to show carbon stocks per latitude + land area and permafrost coverage
 ## Workflow
 ### Preprocessing
-#### GEE (rester input)
+#### GEE (raster input)
 1. Create fishnet (geemap)
 * 0.1° Longitude, 1° latitude (-180:180 Lon, -90:90 Lat)
 2. Merge fishnet to 1° lat strips
@@ -20,5 +20,6 @@ Create a figure to show carbon stocks per latitude + land area and permafrost co
 4. calculate areas using IAEA projection 
 
 ## Results
-Version 08
-![soil_carbon_v08](https://github.com/initze/carbon_stocks_viz/assets/4864803/e477128a-7095-4299-b5ac-7334e0a82ee5)
+Version 09 - published version
+![soil_carbon_v09](https://github.com/initze/carbon_stocks_viz/assets/4864803/f969252f-801e-46b9-9a79-836b32d4edb7)
+
